@@ -7,7 +7,7 @@ point_values = {
     'Z': 3,
 }
 
-file_input = open('./day2/input.txt').readlines()
+file_input = open('input.txt').readlines()
 print(f"Input Size: {len(file_input)}")
 
 #Part 1
